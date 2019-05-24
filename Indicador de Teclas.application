@@ -3,7 +3,7 @@
   <assemblyIdentity name="Indicador de Teclas.application" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <description asmv2:publisher="Srealmoreno" asmv2:product="Indicador de Teclas" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true">
-    <deploymentProvider codebase="https://srealmoreno99.000webhostapp.com/Indicador/Indicador%20de%20Teclas.application" />
+    <deploymentProvider codebase="https://srealmoreno.github.io/IndicadorDeTeclas/Indicador%20de%20Teclas.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.0" profile="Client" supportedRuntime="4.0.30319" />
@@ -17,7 +17,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>uTXecpZRAgtSnGpemGb8/cL3owU=</dsig:DigestValue>
+        <dsig:DigestValue>qjwbKZGP4cxbc0OCEr4hUoaf6LY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
