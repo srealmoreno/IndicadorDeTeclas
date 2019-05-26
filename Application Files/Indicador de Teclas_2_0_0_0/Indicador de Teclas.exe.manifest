@@ -62,7 +62,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>CFH8bTj0P8XHGH/AqkRfbyAsKAA=</dsig:DigestValue>
+        <dsig:DigestValue>0SHtyFsppXsY2lktZuMUkw4qLMI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -74,7 +74,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>VNi4x4GmIdoiGHXxu4vFp3qDn5Q=</dsig:DigestValue>
+        <dsig:DigestValue>YVugu35Rh2QziZYIZIdNDTb8hJU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -127,14 +127,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="uninstall.exe" size="115712">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="uninstall.exe" size="7680">
       <assemblyIdentity name="uninstall" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>FhfKe63YwIud61g1GeSDQT7Qdf8=</dsig:DigestValue>
+        <dsig:DigestValue>Nj/ba/dGTI6QYhSKRpW0umwqTK0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
