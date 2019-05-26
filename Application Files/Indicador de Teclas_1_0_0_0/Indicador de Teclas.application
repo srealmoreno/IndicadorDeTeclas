@@ -6,7 +6,6 @@
     <deploymentProvider codebase="https://srealmoreno.github.io/IndicadorDeTeclas/Indicador%20de%20Teclas.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
-    <framework targetVersion="4.0" profile="Client" supportedRuntime="4.0.30319" />
     <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
@@ -17,7 +16,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>qjwbKZGP4cxbc0OCEr4hUoaf6LY=</dsig:DigestValue>
+        <dsig:DigestValue>4HBLdpMaBkcgfGzvy+Jh1V+OhNU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
