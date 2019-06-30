@@ -4,7 +4,7 @@
 Name = Indicador de Teclas
 ProductVersion = 3.0.0.0
 URL = https://srealmoreno.github.io/IndicadorDeTeclas/Indicador de Teclas Setup.exe
-Size = 70532643
+Size = 6730000
 MD5 = 71115a1f2cec3bc93e41bf9c2eed3e5b
 ServerFileName = Indicador de Teclas Setup.exe
 RegistryKey = HKUD\Software\Srealmoreno\Indicador de Teclas\Version
