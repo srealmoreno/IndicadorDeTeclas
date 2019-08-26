@@ -1,5 +1,5 @@
-Mensaje
+Imagen
 True
-Te jaqye la computadora mi amorsote ;* que tengas un excelente dia!
+dinocecy.jpg
 420
-True
+False
