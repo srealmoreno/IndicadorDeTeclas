@@ -1,3 +1,0 @@
-Imagen
-True
-Hola.png
