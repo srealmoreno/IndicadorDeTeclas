@@ -1,5 +1,5 @@
 Imagen
 True
-dinocecy.jpg
-30
+dino.JPG
+60
 True
