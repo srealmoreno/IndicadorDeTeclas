@@ -1,5 +1,5 @@
 Imagen
 True
-dino.JPG
-60
+hola.jpg
+120
 True
