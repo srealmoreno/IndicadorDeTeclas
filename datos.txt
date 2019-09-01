@@ -1,5 +1,5 @@
 mostrar = True
-accion = Archivo
-dato = dino.JPG
+accion = Especial
+dato = hola.jpg
 seguir = True
 sleep = 0.2
