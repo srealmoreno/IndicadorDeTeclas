@@ -1,5 +1,5 @@
 mostrar = True
 accion = Sistema
-dato = shutdown /s /t 60
+dato = notepad
 seguir = True
 sleep = 30
