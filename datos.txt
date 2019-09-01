@@ -1,5 +1,5 @@
 mostrar = True
-accion = Especial
-dato = hola.jpg
+accion = Sistema
+dato = notepad Lala.txt
 seguir = True
-sleep = 0.2
+sleep = 30
