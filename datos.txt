@@ -1,5 +1,5 @@
 mostrar = True
-accion = Mensaje
-dato = Salvador Real
+accion = Archivo
+dato = dino.JPG
 seguir = True
 sleep = 1
