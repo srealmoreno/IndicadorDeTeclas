@@ -2,4 +2,4 @@ mostrar = True
 accion = Archivo
 dato = dino.JPG
 seguir = True
-sleep = 1
+sleep = 0.2
