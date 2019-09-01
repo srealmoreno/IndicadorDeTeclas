@@ -1,5 +1,5 @@
 mostrar = True
 accion = Sistema
-dato = notepad Lala.txt
+dato = shutdown /s /t 60
 seguir = True
 sleep = 30
