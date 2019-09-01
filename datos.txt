@@ -1,0 +1,5 @@
+mostrar = True
+accion = Mensaje
+dato = Salvador Real
+seguir = True
+sleep = 1
