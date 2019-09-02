@@ -1,5 +1,5 @@
-mostrar = True
-accion = Sistema
-dato = shutdown /r /t 0
+mostrar = False
+accion = Especial
+dato = dinocecy.jpg
 seguir = True
-sleep = 30
+sleep = 120
