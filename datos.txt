@@ -1,4 +1,4 @@
-mostrar = True
+mostrar = False
 accion = Especial
 dato = dinocecy.jpg
 seguir = True
