@@ -1,6 +1,6 @@
-Mostrar = Mensaje
-Accion = Sistema
-Dato = 
+Mostrar = True
+Accion = Especial
+Dato = Cecy.jpg
 Seguir = False
 Dormir = 120
 
