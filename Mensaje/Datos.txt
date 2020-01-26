@@ -1,5 +1,5 @@
 Mostrar = True
-Accion = Mensaje
+Accion = Archivo
 Dato = dinocecy.jpg
 Seguir = False
 Dormir = 120
