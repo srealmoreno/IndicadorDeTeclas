@@ -1,0 +1,21 @@
+Mostrar = True
+Accion = Archivo
+Dato = dinocecy.jpg
+Seguir = False
+Dormir = 120
+
+
+
+; Mostrar: Muestra el mensaje en la pantalla
+;
+; Acción: Acción que tomará el programa, 3 posibles casos
+;   1. Mensaje: Muestra el texto por pantalla del contenido del fichero "/Media/Mensaje.txt/"
+;   2. Archivo: Descarga y abre el archivo del fichero "/Media/contenido_de_dato"
+;   3. Especial: Hace las 2 opciones anteriores
+;   4. Sistema: Ejecuta una instrucción de la linea de comandos descrito en Dato
+;
+; Dato: Nombre del fichero situado en "/Media/
+;
+; Seguir: Sigue en ejecución el programa despúes de su función
+;
+; Dormir: Si el programa sigue en ejecución, dormira la cantidad de minutos descrita
