@@ -1,6 +1,6 @@
-Mostrar = True
+Mostrar = False
 Accion = Sistema
-Dato = Shutdown -r
+Dato = 
 Seguir = False
 Dormir = 120
 
