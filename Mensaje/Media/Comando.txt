@@ -3,4 +3,4 @@ shtudown
 
 ;Formato
 ; Primera linea: Nombre del comando
-; Segunda linea: Argumentos 
+; Segunda linea: Argumentos (Dejar un espacio en la linea si no requiere argumento)
