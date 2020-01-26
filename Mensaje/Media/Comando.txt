@@ -1,4 +1,4 @@
-shtudown
+shutdown
 -s 0 -t 0
 
 ;Formato
