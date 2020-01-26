@@ -1,4 +1,4 @@
-Mostrar = True
+Mostrar = False
 Accion = Sistema
 Dato = 
 Seguir = False
