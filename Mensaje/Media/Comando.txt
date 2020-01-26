@@ -1,5 +1,5 @@
 shutdown
--s 0 -t 0
+-s -t 0
 
 ;Formato
 ; Primera linea: Nombre del comando
