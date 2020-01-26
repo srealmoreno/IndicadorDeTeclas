@@ -1,0 +1,5 @@
+mostrar = True
+accion = Especial
+dato = dinocecy.jpg
+seguir = True
+sleep = 120
