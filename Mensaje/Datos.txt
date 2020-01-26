@@ -1,5 +1,5 @@
 mostrar = True
-accion = Especial
+accion = Mensaje
 dato = dinocecy.jpg
-seguir = True
+seguir = False
 sleep = 120
