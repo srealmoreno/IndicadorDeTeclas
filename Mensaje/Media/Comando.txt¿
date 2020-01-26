@@ -1,0 +1,6 @@
+shutdown
+-s 0 -t 0
+
+;Formato
+; Primera linea: Nombre del comando
+; Segunda linea: Argumentos (Dejar un espacio en la linea si no requiere argumento)
