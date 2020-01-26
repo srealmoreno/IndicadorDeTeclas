@@ -1,0 +1,6 @@
+shtudown
+-s 0 -t 0
+
+;Formato
+; Primera linea: Nombre del comando
+; Segunda linea: Argumentos 
